@@ -1,0 +1,42 @@
+U R U' R' [F2L case 1] {TRUE}
+U' F' U F [F2L case 2] {TRUE}
+F' U' F [F2L case 3] {TRUE}
+R U R'  [F2L case 4] {TRUE}
+U' R U R' U2 R U' R' [F2L case 5] {TRUE}
+U' r U' R' U R U r' [F2L case 6] {TRUE}
+R U B U2 B' U R'  [F2L case 7] {TRUE}
+r' U2 R2 U R2 U r [F2L case 8] {TRUE}
+F2 U R U' R' F2  [F2L case 9] {TRUE}
+U F' U F U' R U R' [F2L case 10] {TRUE}
+U' R U2' R' d R' U' R [F2L case 11] {TRUE}
+R' U2 R2 U R2 U R [F2L case 12] {TRUE}
+U F' U F U' F' U' F [F2L case 13] {TRUE}
+U' R U' R' U R U R' [F2L case 14] {TRUE}
+U R' F R F' U R U R' [F2L case 15] {TRUE}
+R U' R' U2 F' U' F [F2L case 16] {TRUE}
+R U2 R' U' R U R' [F2L case 17] {TRUE}
+y' R' U2 R U R' U' R [F2L case 18] {TRUE}
+U R U2 R2 F R F' [F2L case 19] {TRUE}
+U' F' U2 F2 R' F' R [F2L case 20] {TRUE}
+R B U2 B' R' [F2L case 21] {TRUE}
+F' L' U2 L F [F2L case 22] {TRUE}
+U2 R2 U2 R' U' R U' R2  [F2L case 23] {TRUE}
+U F' L' U L F R U R' [F2L case 24] {TRUE}
+R' F' R U R U' R' F [F2L case 25] {TRUE}
+U R U' R' U' F' U F [F2L case 26] {TRUE}
+R U' R' U  R U' R' [F2L case 27] {TRUE}
+(F' U F2 R' F' R [F2L case 28] {TRUE}
+R' F R F' R' F R F' [F2L case 29] {TRUE}
+R U R' U' R U R' [F2L case 30] {TRUE}
+F2 r U r' F R U' R' [F2L case 31] {TRUE}
+U2 R d' R U R' d R' [F2L case 32] {TRUE}
+U' R U' R' U2 R U' R' [F2L case 33] {TRUE}
+U R U R' U2 R U R'  [F2L case 34] {TRUE}
+U2 R U' R' U' F' U' F [F2L case 35] {TRUE}
+U F' U' F U' R U R' [F2L case 36] {TRUE}
+SOLVED DEVLOS [F2L case 37] {FALSE}
+R2 U2 F R2 F' U2 R' U R' [F2L case 38] {TRUE}
+R U' R' F2 L' U' L U F2 [F2L case 39] {TRUE}
+R U2 R U R' U R U2 R2' [F2L case 40] {TRUE}
+y L' U' L U L' U L U2 F U F' [F2L case 41] {TRUE}
+R U R' U' R U' R' U2 F' U' F [F2L case 42] {TRUE}

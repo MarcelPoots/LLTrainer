@@ -1,0 +1,42 @@
+R U R' F' R U R' U' R' F R2 U' R' [J-Perm] {TRUE}
+F R U' R' U' R U R' F' R U R' U' R' F R F' [Y-perm] {TRUE}
+U R' U' R U' R' U2 R [Anti-Sune - B1] {TRUE}
+U' R2 D R' U R D' R' U R' U' R U' R' [Pancake - B2] {TRUE}
+x' F U' R U L' U2 R' U2 R [Evil Forte - B3] {TRUE}
+U' R U2 R' U2 R' F R F' [Juice10 - B4] {TRUE}
+U' L' U  R U' L U R' [Anti-Niklas - B5] {TRUE}
+U' R' U' R U' L U' R' U L' U2 R [Sune - C1] {TRUE}
+U' R' F2 R U2 R U' L' U x' [Justin - C2] {TRUE}
+U' x U R' U' L U2 R U2 R' [Forte - C3] {TRUE}
+U2 R U R' U R U' R D R' U' R D' R2 [Waffo - C4] {TRUE}
+U' R U' L' U R' U' L [Niklas - C5] {TRUE}
+U R U R' U L' U R U' L U2 R' [Y-Sune - C6] {TRUE}
+R U2 R' U' R U R' U' R U R' U' R U' R' [Jude - D1] {TRUE}
+U R' U2 R' D' R U2 R' D R2 [LOLBEN - D2] {TRUE}
+U2 R' U' R U2 L' U R' U' L U' R [Spin-Ben - D3] {TRUE}
+L' U' L' U R U' L U x' [Rowe - D4] {TRUE}
+x L' D L U' L' D' L U x' [Harris - D5] {TRUE}
+L' U2 R U' Rw' U2 R Lw U' R' [Rowe D6] {TRUE}
+R' U' R U' R' U2 R2 U R' U R U2 R' [2GENU - E1] {TRUE}
+U' F R2 D R' U R D' R2' U' F' [Rob E2] {TRUE}
+U2 R2 D R' U2 R D' R' U2 R' [FML R - E3] {TRUE}
+U2 R' F U' R F R' U R F' [Minivan - E4] {TRUE}
+R2 D' R U2 R' D R U2 R [FML L - E5] {TRUE}
+U' F R U R' U' F' [FRURUF - E6] {TRUE}
+R U2 R' U' R U' R2' U2' R U R' U R [2GENT - F1] {TRUE}
+R' U Rw U2 R2' F R F' R [MOOP - F2] {TRUE}
+U' R' U' R U L U' R' U x [Brownie - F3] {TRUE}
+F U' L' U R2 U' L U R' Lw' U' x' [Rocketship - F4] {TRUE}
+U' R U R' U' R' F R F' [COOKIE - F5] {TRUE}
+R' U R2 D Rw' U2 Rw D' R2' U' R [Blastoise - F6] {TRUE}
+F R U R' U' R U R' U' F' [Dead Guy - G1] {TRUE}
+R' U' R U' R' U2 R U' L' U R U' L U R' [Shoot DOwn - G2] {TRUE}
+L' U2 y R U2 R' U2 R' U2 F y x [Anfony - G3] {TRUE}
+R U R' U R U2 R' U' R U' L' U R' U' L [Shoot up - G4] {TRUE}
+R' U L U' R U' L' U' L U' L' [Westicles - G5] {TRUE}
+U2 R U R' U R U' y R U' R' y L' [Woner - G6] {TRUE}
+R U2 R' U' R U R' U' R U' R' [Sex - H1] {TRUE}
+U' R U R' U R U L' U R' U' L [Sela - H2] {TRUE}
+L' U2 y R U2 R U2 R' U2 F y x [CMLL40] {TRUE}
+R' F R F' U2 R2 B' R' B R' [Data - H3] {TRUE}
+F R U R' U' R U R' U' R U R' U' F' [Sexy Moves - H4] {TRUE}

@@ -1,0 +1,21 @@
+M2' U M2' U2 M2' U M2' [H permutation] {TRUE}
+R2 U' R' U' R U R U R U' R [U a permutation] {TRUE}
+R' U R' U' R' U' R' U R U R2  [U b permutation] {TRUE}
+M2' U M2' U M' U2 M2' U2 M'  [Z permutation] {TRUE}
+x' R' D R' U2 R D' R' U2 R2 x [A a permutation] {TRUE}
+R B' R F2 R' B R F2 R2 [A b permutation] {TRUE}
+y x' R U' R' D R U R' D' R U R' D R U' R' D' x [E permutation] {TRUE}
+R' U R U' R2 F' U' F U R F R' F' R2 U' [F permutation] {TRUE}
+y R2' u R' U R' U' R u' R2 y' R' U R [G a permutation] {TRUE}
+R' U' R y R2 u R' U R U' R u' R2 [G b permutation] {TRUE}
+y R2' u' R U' R U R' u R2 y R U' R' [G c permutation] {TRUE}
+y2 R U R' y' R2 u' R U' R' U R' u R2 [G d permutation] {TRUE}
+B' U F' U2 B U' B' U2 F B U' [J a permutation] {TRUE}
+B U' F U2 B' U B U2 F' B' U [J b permutation] {TRUE}
+L U' R U2 L' U R' L U' R U2 L' U R'  U' [N a permutation] {TRUE}
+R' U L' U2 R U' L R' U L' U2 R U' L U  [N b permutation] {TRUE}
+R U2 R' U2 R B' R' U' R U R B R2 U [R a permutation] {TRUE}
+R' U2 R U2 R' F R U R' U' R' F' R2' U' [R b permutation] {TRUE}
+R U R' U' R' F R2 U' R' U' R U R' F' [T permutation] {TRUE}
+R' U R' U' B' R' B2 U' B' U B' R B R  [V permutation] {TRUE}
+F R U' R' U' R U R' F' R U R' U' R' F R F' [Y permutation] {TRUE}

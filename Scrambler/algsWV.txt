@@ -1,0 +1,27 @@
+U' L' U2 R U' R' U2 L [WV-01] {TRUE}
+U R U' R' [WV-02] {TRUE}
+R' F R U R U' R' F' [WV-03] {TRUE}
+U R2 D R' U' R D' R2 [WV-04] {TRUE}
+U R U' R' U R' U' R U' R' U2 R [WV-05] {TRUE}
+R U' R' U2 R U' R' U2 R U R' [WV-06] {TRUE}
+U R U R' U' R U' R' [WV-07] {TRUE}
+U2 R U' R' U R U2 R' [WV-08] {TRUE}
+U2 F' R U2 R' U2 R' F R [WV-09] {TRUE}
+R' F R2 U R' U' R U R' U' F' [WV-10] {TRUE}
+U2 R' U' R2 U' R2 U2 R [WV-11] {TRUE}
+U y' x' R' F' R U' R U R2 F R [WV-12] {TRUE}
+U2 R U2 R2 U' R U' R' U2 R [WV-13] {TRUE}
+U2 L' U R U' L U2 R' [WV-14] {TRUE}
+L' U R U' R' L [WV-15] {TRUE}
+U2 L' R U R' U' L R U2 R' [WV-16] {TRUE}
+U2 R U2 R' [WV-17] {TRUE}
+R' F' R U2 R U2 R' F [WV-18] {TRUE}
+R' F2 R2 U' R' U' R U R' F2 [WV-19] {TRUE}
+U R U' R' U' R U R' U R U2 R' [WV-20] {TRUE}
+U R U' R2 U2 R U R' U R [WV-21] {TRUE}
+U R2 D R' U R D' R' U2 R' [WV-22] {TRUE}
+R2 U R' U R' U' R U R U2 R2 [WV-23] {TRUE}
+U2 R U' R' U R U' R' U R U2 R' [WV-24] {TRUE}
+U2 R U2 R2 U2 R U R' U R [WV-25] {TRUE}
+U R U' R2 U' R U' R' U2 R [WV-26] {TRUE}
+U R U R' U' R U R' U' R U' R' [WV-27] {TRUE}

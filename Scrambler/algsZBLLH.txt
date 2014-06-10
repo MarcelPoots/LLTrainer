@@ -1,0 +1,40 @@
+R U2 R' U' R U' R' U' R' U' R U' R' U2 R [ZBLLH1] {TRUE}
+R' U' R U' R' U R U' R' U2 R [ZBLLH2] {TRUE}
+R U2 R' U' R U R' U' R U' R' [ZBLLH3] {TRUE}
+F R U R' x U R' U' R x' U' R U R' x U R' U' R x' U' F' [ZBLLH4] {TRUE}
+R' U2 R U R' U' R U R' U R [ZBLLH5] {TRUE}
+R' U2 R U R' U R U R U R' U R U2 R' [ZBLLH6] {TRUE}
+L U L' U L U' L' U L U2 L' [ZBLLH7] {TRUE}
+U R D R' U' R D' x' U' L' U R' U' L [ZBLLH8] {TRUE}
+F' L U' L' U2 L2 U L' U2 L U L2 U' F [ZBLLH9] {TRUE}
+B L' U L U2 L2 U' L U2 L' U' L2 U B' [ZBLLH10] {TRUE}
+l' U2 R' u2 R B2 U2 R' u2 l U2 R [ZBLLH11] {TRUE}
+R U' L' U R2 U2 L R2 U' L' U R2 U R L [ZBLLH12] {TRUE}
+L' U R U' L2 U2 R' L2 U R U' L2 U' R' L' [ZBLLH13] {TRUE}
+F R U R' U' R U R' U' R U R' U' F' [ZBLLH14] {TRUE}
+R2 F R F' R' U2 R' U2 R U2 x' U' R2 U R [ZBLLH15] {TRUE}
+U R U2 R' F2 D R2 U' R2 D' L' U L U2 [ZBLLH16] {TRUE}
+R2 D r' U2 r D' R U' R2 U' R2 U2 R [ZBLLH17] {TRUE}
+L' U R U' L2 U L' R' U2 L U L' [ZBLLH18] {TRUE}
+R' U' R U' R' U' L U' R U L' [ZBLLH19] {TRUE}
+U' R U L' U2 R' U' L' U' L2 u r2 U' [ZBLLH20] {TRUE}
+L U2 L2 U' L' D L' U' L D' L U2 L [ZBLLH21] {TRUE}
+R U R' U R U L' U R' U' L [ZBLLH22] {TRUE}
+F' U2 R' F R U2 R2 r U L' U' R2 U [ZBLLH23] {TRUE}
+U2 R2 U R D' R U R' D R' U2 R' [ZBLLH24] {TRUE}
+L U2 R' U L' U L U L' U' L U' R U2 L' [ZBLLH25] {TRUE}
+U R' U' L U2 R U L U L2 u' r2 U [ZBLLH26] {TRUE}
+L' U2 R U' L U' L' U' L U L' U R' U2 L [ZBLLH27] {TRUE}
+R U' L' U R2 U' R L U2 R' U' R [ZBLLH28] {TRUE}
+L U L' F' L U' L2 U L F2 R U R' U' F' [ZBLLH29] {TRUE}
+R' B' R2 U R2 U R2 U2 R2 U B R [ZBLLH30] {TRUE}
+R' F R F' U2 x' R2 U L' U L U2 R2 [ZBLLH31] {TRUE}
+L' U2 L2 F' U L2 U L2 U' F U' L' [ZBLLH32] {TRUE}
+L' U2 M' x' D R2 U R2 u' R2 B [ZBLLH33] {TRUE}
+R U2 R2 F U' R2 U' R2 U F' U R [ZBLLH34] {TRUE}
+R F R2 U' R2 U' R2 U2 R2 U' F' R' [ZBLLH35] {TRUE}
+L F' L' F U2 x' L2 U' R U' R' U2 L2 [ZBLLH36] {TRUE}
+R' U' R F R' U R2 U' R' F2 L' U' L U F [ZBLLH37] {TRUE}
+R U2 M' x U' L2 D' L2 U x' U2 L' [ZBLLH38] {TRUE}
+F R U R' U2 y' F' L2 u' L u L2 F U' R' [ZBLLH39] {TRUE}
+F R U' R' U R U2 R' U' R U R' U' F' [ZBLLH40] {TRUE}

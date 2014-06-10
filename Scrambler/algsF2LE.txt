@@ -1,0 +1,17 @@
+R U R' U2 R U' R' U R U' R' [F2LE1] {TRUE}
+R U' R' U2 F' U' F [F2LE2] {TRUE}
+R' F R U R' F' R L' U' L [F2LE3] {TRUE}
+L' U L U2 F U F' [F2LE4] {TRUE}
+R' U' R U' R' U2 R2 U' R' [F2LE5] {TRUE}
+R U R2 F R F' R U' R' [F2LE6] {TRUE}
+F' L' U L F R U R' [F2LE7] {TRUE}
+R2 U2 R' U' R U' R2 [F2LE8] {TRUE}
+L U L' U L U2 L2 U L [F2LE9] {TRUE}
+L2 U2 L U L' U L2 [F2LE10] {TRUE}
+F R U' R' F' L' U' L [F2LE11] {TRUE}
+R U2 R' U' R U R' [F2LE12] {TRUE}
+F' U2 F U F' U' F [F2LE13] {TRUE}
+L' U2 L U L' U' L [F2LE14] {TRUE}
+L' U L U2 F U F' [F2LE15] {TRUE}
+F' U' F U' R U R' [F2LE16] {TRUE}
+R U' R' U R U' R' U2 R U' R' [F2LE17] {TRUE}

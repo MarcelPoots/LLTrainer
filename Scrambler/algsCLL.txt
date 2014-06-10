@@ -1,0 +1,40 @@
+R2 F' U F U' F' U' F2 R F' R [CLL1] {TRUE}
+y' F R U R' U' F' [CLL2] {TRUE}
+y2 R2 D R' U2 R D' R' U2 R' [CLL3] {TRUE}
+R2 F2 R' B2 R F2 R' B2 R' [CLL4] {TRUE}
+R2' D' R U2 R' D R U2 R [CLL5] {TRUE}
+y2 r' y' R' U2 L' U R U' L U2 y r [CLL6] {TRUE}
+F R' F R2 U' R' U' R U R' F2 [CLL7] {TRUE}
+F2 L2 F' U R U' R' F L2 F2 [CLL8] {TRUE}
+y' r' U' R U L U' R' U x [CLL9] {TRUE}
+y' l' U2 R' D2 R U2 R' D2 R2 x' [CLL10] {TRUE}
+y l U L' U' R' U L U' x [CLL11] {TRUE}
+R' U R U2 L' R' U R U' L [CLL12] {TRUE}
+L B' D2 B L' U2 L B' D2 B L' [CLL13] {TRUE}
+y R U2 R2 F R F' R U2 R' [CLL14] {TRUE}
+x' U' R U L' U' R' U r [CLL15] {TRUE}
+y2 L' U2 L' D' L U2 L' D L2 [CLL16] {TRUE}
+y R U2 R D R' U2 R D' R2 [CLL17] {TRUE}
+y' x' U L' U' R U L U' l' [CLL18] {TRUE}
+y' R U R' U R U2 R' [CLL19] {TRUE}
+y R U R' U L' U R U' L U2 R' [CLL20] {TRUE}
+y' L' U2 L U2 L F' L' F [CLL21] {TRUE}
+y' F R' F' R U2 R U2 R' [CLL22] {TRUE}
+B L' U2 L B' L' B U2 B' L [CLL23] {TRUE}
+y' R U' L' U R' U' L [CLL24] {TRUE}
+R' U' R U' R' U2 R [CLL25] {TRUE}
+L' U' L U' R U' L' U R' U2 L [CLL26] {TRUE}
+x' M' U' R U L' U2 R' U2 R [CLL27] {TRUE}
+L U2 L' U2 r' U L U' x [CLL28] {TRUE}
+R' U L U' R U L' [CLL29] {TRUE}
+L' B U2 B' L B L' U2 L B' [CLL30] {TRUE}
+R U2 R' U' R U R' U' R U' R' [CLL31] {TRUE}
+F R U R' U' R U R' U' R U R' U' F' [CLL32] {TRUE}
+y' R U2 R2 F R F' U2 R' F R F' [CLL33] {TRUE}
+R' F R F' U2 R2 B' R' B R' [CLL34] {TRUE}
+y R U2 R2 U' R2 U' R2 U2 R [CLL35] {TRUE}
+y' R' U' R U' R' U F' U F R [CLL36] {TRUE}
+y2 F' U' L' U L2 F L' U2 L' U2 L [CLL37] {TRUE}
+y R B' R B R2 U2 F R' F' R [CLL38] {TRUE}
+y2 F U R U' R2 F' R U2 R U2 R' [CLL39] {TRUE}
+y' F R' F' R U2 F R' F' R2 U2 R' [CLL40] {TRUE}

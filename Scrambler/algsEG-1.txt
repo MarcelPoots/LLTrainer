@@ -1,0 +1,42 @@
+U x U' R2' U' R2 U' x' U' F2 R2 [U Case 1] {TRUE}
+F' U2 R U2 R' U2 F [U Case 2] {TRUE}
+U2 R' F R2 U' R' U y' R U R' [U Case 3] {TRUE}
+U R' F R F' R' F R2 U' R' [U Case 4] {TRUE}
+U2 L F' L2' U L U' y' R' U' R [U Case 5] {TRUE}
+y' R' U R' U' R U' R' U' R2 [U Case 6] {TRUE}
+U2 R U' R' F' U' x U R' U' R U [T Case 1] {TRUE}
+U2 R U' R' U2 F R U2 R' F [T Case 2] {TRUE}
+x U' R' U R2 x' U R' U' R U R' [T Case 3] {TRUE}
+U R U R2 x U' R U R' U' R [T Case 4] {TRUE}
+x U L U' L2 x' U' L U L' U' L [T Case 5] {TRUE}
+U R U' R2 F R U R U2 R' [T Case 6] {TRUE}
+U' R' F R2 U R' F' R U2 R' [L Case 1] {TRUE}
+R U R2' F' R y' U' R' U R [L Case 2] {TRUE}
+F U' F' U' R U R2' F' R [L Case 3] {TRUE}
+L' U L U' L' U L2 F L' F' [L Case 4] {TRUE}
+R U' R' U R U' R2 F' R F [L Case 5] {TRUE}
+U' R' U R2 U' R2 U' F R2 U' R' [L Case 6] {TRUE}
+U2 F2 R U R' U2 R U R' U' F [Pi Case 1] {TRUE}
+F R U' R' F R U2 R' U F' [Pi Case 2] {TRUE}
+U' R U' R' U R U' R' F R U' R' [Pi Case 3] {TRUE}
+R U' R2 F R U R U' R' U' R' F R F' [Pi Case 4] {TRUE}
+U' F R' F U' F2 R U R [Pi Case 5] {TRUE}
+U' R' F R2 U' R2 F R [Pi Case 6] {TRUE}
+U' R' F R2 U' R2 U' F U R [H Case 1] {TRUE}
+U' R U R' F' R U R' U' R U R' U' [H Case 2] {TRUE}
+R' U' R' F2 U x U' R U' [H Case 3] {TRUE}
+U R U R' F' R U R' U' R U R' U' [H Case 4] {TRUE}
+U2 R' U' R' F2 U x U' R U'  [H Case 5] {TRUE}
+x R U R2 U' B R2' U' R U [H Case 6] {TRUE}
+z' R' U' R U2 x' U2 R U' [Sune Case 1] {TRUE}
+R' F R2 U' R' U L F' L' F [Sune Case 2] {TRUE}
+U' R' F R U2 R U' R2 F2 R F' [Sune Case 3] {TRUE}
+U R U' R' U R U' R' U F R U' R' [Sune Case 4] {TRUE}
+U R U R' F2 R' F2 R U' F [Sune Case 5] {TRUE}
+R B2 U' R2 F z' R U2 R' F [Sune Case 6] {TRUE}
+U' B U' R2 F2 U' F [Anti Sune Case 1] {TRUE}
+U' R U R' F' U' R U R' U' R U R' [Anti Sune Case 2] {TRUE}
+F' L F L' U' R U R2 F' R [Anti Sune Case 3] {TRUE}
+U2 R U' R2 F R U' R' F R F' [Anti Sune Case 4] {TRUE}
+R U' R' F' U' R U R' U' F [Anti Sune Case 5] {TRUE}
+R U' F2 R U2 R U' F [Anti Sune Case 6] {TRUE}
